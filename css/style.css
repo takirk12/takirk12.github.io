@@ -6,7 +6,7 @@ body {
 }
 header, footer {
   background-color: #cb997e;
-  text-align: left;
+  text-align: center;
   min-width: 500px;
 }
 header {
