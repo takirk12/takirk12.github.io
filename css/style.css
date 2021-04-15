@@ -10,7 +10,7 @@ header, footer {
   min-width: 500px;
 }
 header {
-  font-family: Work Sans;
+  font-family: Halant;
   color: #fff;
   min-height: 100vh;
   display: flex;
@@ -28,7 +28,7 @@ main {
   align-content: center;
 }
 h1 {
-  font-family: Poppins;
+  font-family: Halant;
   font-size: calc(1em + 3vw);
   padding-bottom: .67em;
   border-bottom: 1px solid;
@@ -36,7 +36,7 @@ h1 {
 }
 
 h2 {
-  font-family: Poppins;
+  font-family: Halant;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -61,7 +61,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'Halant';
 }
 
 .buttonBox {
@@ -112,7 +112,7 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
+  font-family: Halant;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -123,7 +123,7 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: Halant;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
