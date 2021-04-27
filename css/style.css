@@ -82,7 +82,7 @@ img {
 }
 
 .myButton:hover {
-        background-color: rbga(0,0,0,.1);
+        background-color: rbga(0,0,0,.5);
 }
 
 .myButton:active {
